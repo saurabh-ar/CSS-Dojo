@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:#25427C;
+}
+
+.main{
+    height: 250px;
+    width: 250px;
+    background:#C73C4B ;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hair{
+    position: relative;
+    top:-140px;
+    width: 0; 
+    height: 0; 
+    border-left: 55px solid transparent;
+    border-right: 55px solid transparent;
+    border-bottom: 55px solid #017A5B;
+}
+
+.eyes{
+    position: absolute;
+    top:75px;
+    background-color: #C73C4B;
+    height: 55px;
+    width: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.eye{
+    height: 55px;
+    width: 55px;
+    background-color:black;
+    border-radius: 50%;
+    border:solid;
+    border-color: white;
+    border-width: 10px;
+
+}
+
+.mouth{
+    position: absolute;
+    top:160px;
+    width: 0; 
+    height: 0; 
+    border-left: 55px solid transparent;
+    border-right: 55px solid transparent;
+    border-top: 55px solid #F8EA01;
+}
