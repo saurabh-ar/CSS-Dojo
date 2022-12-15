@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+  .container{
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center
+  }
+  .triangle{
+    height:0px;
+    width:0px;
+    border-left:100px solid transparent;
+    border-right:100px solid transparent;
+    border-bottom:100px solid green;
+  }
+  .triangle-2{
+    height:0px;
+    width:0px;
+    border-left:120px solid transparent;
+    border-right:120px solid transparent;
+    border-bottom:140px solid green;
+  }
+  .triangle-3{
+    height:0px;
+    width:0px;
+    border-left:160px solid transparent;
+    border-right:160px solid transparent;
+    border-bottom:180px solid green;
+  }
+  .stem{
+    position:relative;
+    top:-60px;
+    height:100px;
+    width:30px;
+    background:brown;
+  }
+  
+  .top-30{
+    position:relative;
+    top:-30px;
+  }
+  .top-60{
+    position:relative;
+    top:-60px;
+  }
