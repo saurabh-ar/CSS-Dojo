@@ -7,3 +7,12 @@
     
 ### Panda 
 <img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/4%20Panda-Cuter/Panda-but-cuter-preview.PNG" width=30% height=30%>
+
+### Panda but Cuter
+<img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/4%20Panda-Cuter/Panda-but-cuter-preview.PNG" width=30% height=30%>
+
+### Xmas Tree
+<img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/5%20Xmas-Tree/XMas-Tree-Preview.PNG" width=30% height=30%>
+
+### Spin A Wheel
+<img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/6%20Spin-A-Wheel/spin-a-wheel-preview.gif" width=30% height=30%>
