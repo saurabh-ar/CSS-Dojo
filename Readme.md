@@ -5,9 +5,6 @@
 ### Not So Angry bird  
 <img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/2%20Angrybird/not-so-angry-bird-preview.PNG" width=30% height=30%>
     
-### Panda 
-<img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/4%20Panda-Cuter/Panda-but-cuter-preview.PNG" width=30% height=30%>
-
 ### Panda but Cuter
 <img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/4%20Panda-Cuter/Panda-but-cuter-preview.PNG" width=30% height=30%>
 
