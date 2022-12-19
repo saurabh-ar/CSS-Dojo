@@ -13,3 +13,6 @@
 
 ### Spin A Wheel
 <img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/6%20Spin-A-Wheel/spin-a-wheel-preview.gif" width=30% height=30%>
+
+### Eye Of Sauron
+<img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/7%20Eye%20Of%20Sauron/Eye-Of-Sauron-Final-Preview.PNG" width=30% height=30%>
