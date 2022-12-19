@@ -4,51 +4,103 @@
     box-sizing: border-box;
 }
 body{
+    background: #191210;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    width:100vw;
-    background: #191210;
 }
 
-.circle-center{
+.container{
+    position: relative;
+    height: 300px;
+    width:900px;
+    background: #191210;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle{
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 400px;
-    height: 400px;
-    background: #191210;
-    border-radius: 50%;
-    border: solid 50px  #Eca03d;
-}
-
-.inner-circle-center{
-    width: 170px;
-    height: 170px;
-    background: red;
-    border-radius: 50%;
-}
-
-.semi-circle-left{
-    position: relative;
-    left: -250px;
-    top: 361px;
-    width: 300px;
     height: 300px;
-    background: #191210;
-    border-radius: 50%;
-    border: solid 50px  #Eca03d;
+    width:300px;
+    border-radius:50%;
+    background:#EBA03C;
+    z-index: 10;
 }
 
-.semi-circle-right{
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width:200px;
+    border-radius:50%;
+    background: #191210;
+}
+
+.red-center{
+    height: 100px;
+    width:100px;
+    border-radius:50%;
+    background: #84261B;
+}
+
+.two-circles{
     position: absolute;
-    left: 1003px;
-    top: 361px;
-    width: 300px;
-    height: 300px;
+    height: 200px;
+    width:600px;
     background: #191210;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+}
+
+.circle-left-container, .circle-right-container{
+    position: relative;
+    height: 100px;
+    width:200px;
+    background: #191210;
+    overflow: hidden;
+    z-index: 1;
+}
+.circle-left-container{
+    top:50px;
+    transform: rotate(3.142rad);
+}
+
+.circle-right-container{
+    top:-50px;
+}
+
+.small-circle{
+    top:0px;
+    height: 200px;
+    width:200px;
     border-radius: 50%;
-    border: solid 50px  #Eca03d;
+    background: #EBA03C;
+}
+
+.circle-right-container .smaller-circle{
+    position: absolute;
+    left:50px;
+    top:50px;
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    background: #191210;
+}
+.circle-left-container .smaller-circle{
+    position: absolute;
+    left:50px;
+    top:50px;
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    background: #191210;
 }
