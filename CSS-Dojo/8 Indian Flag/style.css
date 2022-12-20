@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #d3d3d3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #fff;
+  height: 400px;
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container .section {
+  height: 33.333%;
+  width: 100%;
+}
+
+.saffron {
+  background: #ff9933;
+}
+
+.white {
+  position: relative;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.green {
+  background: #138808;
+}
+
+.white .ashoka-chakra {
+  position: relative;
+  height: 115px;
+  width: 115px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0 0 2px 3px #000080;
+  overflow: hidden;
+}
+
+.ashoka-chakra-spoke-number {
+  position: absolute;
+  left: 32px;
+  width: 50%;
+  height: 50%;
+  background: #000080;
+  transform-origin: bottom;
+  transform: rotate(calc(15deg * var(--i)));
+  clip-path: polygon(50% 0%, 50% 50%, 50% 100%, 42% 51%);
+}
+.ashoka-chakra-center {
+  top: 49px;
+  left: 49px;
+  border-radius: 50%;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: #000080;
+}
