@@ -1,5 +1,5 @@
 ### Flag of my Country | India
-<img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/8%20Indian%20Flag/Indian-Flag-Preview.PNG width=30% height=30%>
+<img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/8%20Indian%20Flag/Indian-Flag-Preview.PNG" width=30% height=30%>
 
 ### Eye Of Sauron
 <img src="https://github.com/saurabh-ar/CSS-Dojo/blob/main/CSS-Dojo/7%20Eye%20Of%20Sauron/Eye-Of-Sauron-Final-Preview.PNG" width=30% height=30%>
